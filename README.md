@@ -1,4 +1,4 @@
-### Olá eu sou o Caio Feiria 👋
+### Olá eu sou o Caio Feiria estudante de programação 😁
 
 - 🔭 Gostaria de ter uma oportunidade na área
 - 🌱 Cursando Sistema da Informação
