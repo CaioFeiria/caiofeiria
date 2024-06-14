@@ -18,7 +18,5 @@
   <a href="https://www.instagram.com/caioufe/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   <a href="https://www.youtube.com/channel/UCJRrVB3sL4BY67XtQH_MQ-w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   
-  ![Snake animation](https://github.com/caiofeiria/caiofeiria/blob/output/github-contribution-grid-snake.svg)
-  
 </div>
 
