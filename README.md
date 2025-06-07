@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=236&color=58ACFA&text=Caio%20Feiria&section=header&reversal=false&fontColor=FFFFFF&fontSize=46&fontAlign=50&animation=scaleIn&rotate=8"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&duration=5005&pause=1000&color=58ACFA&center=true&vCenter=true&repeat=false&random=false&width=1890&height=65&lines=Hello+World!+Seja+bem+vindo+ao+meu+perfil!;Meu+nome+%C3%A9+Caio+Feiria%2C+tenho+21+anos%2C+estou+cursando+Sistemas+de+Informa%C3%A7%C3%A3o!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=40&duration=5005&pause=1000&color=58ACFA&center=true&vCenter=true&repeat=false&random=false&width=1890&height=65&lines=Hello+World!+Seja+bem+vindo+ao+meu+perfil!;Meu+nome+%C3%A9+Caio+Feiria%2C+tenho+22+anos%2C+estou+cursando+Sistemas+de+Informa%C3%A7%C3%A3o!)](https://git.io/typing-svg)
 
 ##
 <div align="center" padding="20px">
